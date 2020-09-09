@@ -28,9 +28,9 @@ Testing Tasks
     -Write a test for moving the rover x and y position and location
     -Write a test to move the rover as per the given scenario problem, given input:
 Test Input:
-5 5
-1 2 N
-LMLMLMLMM
+-5 5
+-1 2 N
+-LMLMLMLMM
 
 
 Expected Output:
